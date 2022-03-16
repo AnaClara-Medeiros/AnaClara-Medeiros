@@ -2,7 +2,7 @@
 
 🎓 Cursando Ciência de Dados - FATEC Ourinhos 
 
-💬 Me chame no LinkdeIn (link a baixo)
+💬 Me chame no LinkdeIn (link a baixo para conferir cursos, projetos e iniciações)
 
 😄 IC em educação midiática: https://www.instagram.com/cdfatecourinhos/
 
