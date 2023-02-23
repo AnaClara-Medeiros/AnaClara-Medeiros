@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
+😄  Business Intelligence | Data Science | EDA | ETL | Machine Learning | Python | Power BI | Scraping | SQL | Tableau
+
 🎓 Ciência de Dados - FATEC Ourinhos 
 
 💬 Me chame no LinkdeIn (link a baixo para conferir cursos, projetos e iniciações)
-
-😄 IC em educação midiática: https://www.instagram.com/cdfatecourinhos/
 
 Entusiasta da cultura Data Driven para uma política de análise de dados, estou na área há pouco mais de dois anos onde trabalho diariamente com construção de dashboards com ferramentas como Tableau e Power BI, criação de querys em SQL e desenvolvimento de algoritmos de Machine Learning aplicando estatística, modelos preditivos e Inteligência Artificial em Python. 
 Além de estudar bots, scraping, automatização de tarefas em Python e Processamento de Linguagem Natural (PLN) que apliquei no meu TCC e sigo aprendendo. 
