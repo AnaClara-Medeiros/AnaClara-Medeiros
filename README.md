@@ -1,12 +1,13 @@
 ### Hello World! 👋
 
-🎓 Cursando Ciência de Dados - FATEC Ourinhos 
+🎓 Ciência de Dados - FATEC Ourinhos 
 
 💬 Me chame no LinkdeIn (link a baixo para conferir cursos, projetos e iniciações)
 
 😄 IC em educação midiática: https://www.instagram.com/cdfatecourinhos/
 
-Tenho interesse por práticas de Data Science e Analytics para aplicar conceitos de estatística, cálculo, modelos preditivos e IA com ferramentas de Machine Learning, Python, Excel e BI. Neste repositório, coloquei alguns exemplos de desenvolvimentos em Python e Dashboards (pelo Power BI, por mais que tenha mais experiência com o Tableau, mas não posso compartilhar estes painéis). 
+Entusiasta da cultura Data Driven para uma política de análise de dados, estou na área há pouco mais de dois anos onde trabalho diariamente com construção de dashboards com ferramentas como Tableau e Power BI, criação de querys em SQL e desenvolvimento de algoritmos de Machine Learning aplicando estatística, modelos preditivos e Inteligência Artificial em Python. 
+Além de estudar bots, scraping, automatização de tarefas em Python e Processamento de Linguagem Natural (PLN) que apliquei no meu TCC e sigo aprendendo. 
 
  <div>
   <a href="https://github.com/AnaClara-Medeiros">
